@@ -60,11 +60,6 @@ rice_leaf_disease_app/
 git clone https://github.com/AkshayShetty7/Rice-Leaf-Disease-Detection
 cd rice_leaf_disease_app
 
-# Create virtual environment (optional)
-python -m venv env
-source env/bin/activate   # macOS/Linux
-env\Scripts\activate      # Windows
-
 # Install dependencies
 pip install -r requirements.txt
 
@@ -95,7 +90,7 @@ Access at: [http://localhost:8501](http://localhost:8501)
 
 ## 🦠 Detectable Diseases
 
-* **Bacterial Leaf Blight** (High severity)
+* **Bacterial Leaf Blight** 
 * **Brown Spot** 
 * **Leaf Blast** 
 * **Leaf Scald** 
