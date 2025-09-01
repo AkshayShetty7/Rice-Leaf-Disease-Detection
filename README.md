@@ -96,11 +96,11 @@ Access at: [http://localhost:8501](http://localhost:8501)
 ## 🦠 Detectable Diseases
 
 * **Bacterial Leaf Blight** (High severity)
-* **Brown Spot** (Medium severity)
-* **Leaf Blast** (High severity)
-* **Leaf Scald** (Medium severity)
-* **Sheath Blight** (High severity)
-* **Healthy Leaf** ✅
+* **Brown Spot** 
+* **Leaf Blast** 
+* **Leaf Scald** 
+* **Sheath Blight** 
+* **Healthy Leaf** 
 
 ---
 
@@ -112,12 +112,5 @@ Contributions are welcome!
 2. Follow PEP 8 and add docstrings
 3. Submit a pull request with description
 
----
 
-## ⚖️ License
 
-Licensed under the **MIT License**. See [LICENSE](LICENSE).
-
----
-
-🌾 Made with ❤️ for the farming community — using AI to improve agriculture, one rice leaf at a time.
